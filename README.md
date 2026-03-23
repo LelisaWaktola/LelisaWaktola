@@ -1,4 +1,6 @@
-#💫 About Me:🔭 I’m currently working on Spring Boot (Java) backend projects and building scalable web applications
+#💫 About Me:
+
+🔭 I’m currently working on Spring Boot (Java) backend projects and building scalable web applications
 👯 I’m looking to collaborate on Spring Boot, REST API, and full-stack web development projects
 🤝 I’m looking for help with microservices architecture, security (Spring Security), and deployment
 🌱 I’m currently learning advanced Spring Boot, RESTful APIs, and MySQL integration
